@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "total_processed": 3,
+    "successful": 3,
+    "errors": 0
+  },
+  "listings": [
+    {
+      "index": 0,
+      "product_name": "Turtle Check Men Navy Blue Shirt",
+      "success": true,
+      "data": {
+        "title": "Stylish Navy Blue Checkered Men's Shirt",
+        "description": "Elevate your wardrobe with the Turtle Check Men Navy Blue Shirt. Crafted from premium quality fabric, this shirt offers a perfect blend of style and comfort. The classic navy blue check pattern is versatile, making it an ideal choice for both casual outings and formal gatherings. Its tailored fit ensures a polished look, while the soft material provides all-day comfort. The shirt features a button-down collar and full sleeves, adding a touch of sophistication to your appearance. Pair it with jeans for a relaxed look or with trousers for a more formal ensemble. Refresh your style effortlessly with this must-have piece.",
+        "features": [
+          "Premium quality fabric for comfort",
+          "Classic navy blue check pattern",
+          "Button-down collar for a polished look",
+          "Tailored fit for a sleek appearance",
+          "Versatile design for casual and formal wear",
+          "Full sleeves for added elegance",
+          "Durable stitching and craftsmanship"
+        ],
+        "keywords": "men's shirt, navy blue shirt, checkered shirt, casual shirt, formal shirt, stylish men's apparel, button-down shirt, tailored fit, versatile men's shirt, premium men's clothing"
+      }
+    },
+    {
+      "index": 1,
+      "product_name": "Peter England Men Party Blue Jeans",
+      "success": true,
+      "data": {
+        "title": "Stylish Peter England Blue Party Jeans for Men",
+        "description": "Elevate your party wardrobe with the Peter England Men Party Blue Jeans, designed for the modern man who values style and comfort. These jeans feature a rich blue hue that stands out, perfect for casual outings or stylish gatherings. Crafted from high-quality denim, they provide a durable yet comfortable fit. The subtle faded effect and classic straight-leg design add a touch of sophistication, making these jeans a versatile addition to any outfit. Pair them with your favorite shirt and shoes for a polished look that exudes confidence and charisma.",
+        "features": [
+          "Rich blue color for standout style",
+          "High-quality, durable denim material",
+          "Classic straight-leg design for a timeless look",
+          "Subtle faded effect for added sophistication",
+          "Comfortable fit for all-day wear",
+          "Versatile style suitable for various occasions",
+          "Easy to pair with shirts and shoes"
+        ],
+        "keywords": "Peter England jeans, blue jeans, party jeans, men's denim, stylish men's jeans, comfortable jeans, durable denim, straight-leg jeans, faded effect jeans, versatile jeans"
+      }
+    },
+    {
+      "index": 2,
+      "product_name": "Titan Women Silver Watch",
+      "success": true,
+      "data": {
+        "title": "Elegant Titan Women's Silver Watch - Timeless Style",
+        "description": "Elevate your style with the Titan Women Silver Watch, a perfect blend of elegance and modern design. This exquisite timepiece features a sleek silver stainless steel strap, ensuring durability and a sophisticated look. The minimalist white dial is adorned with subtle silver markings and the iconic Titan logo, exuding a sense of understated luxury. The slim profile and refined finish make it an ideal accessory for both casual and formal occasions. Whether you're heading to a business meeting or a night out, this watch complements your outfit with a touch of class. With its reliable quartz movement, you can be assured of accurate timekeeping. Treat yourself or a loved one to this beautiful watch, a statement of elegance and precision.",
+        "features": [
+          "Stainless steel silver strap",
+          "Minimalist white dial with silver markings",
+          "Quartz movement for accurate timekeeping",
+          "Slim profile for a comfortable fit",
+          "Elegant design suitable for all occasions",
+          "Durable and scratch-resistant materials",
+          "Water-resistant construction"
+        ],
+        "keywords": "Titan watch, women's silver watch, elegant watch, stainless steel watch, minimalist watch, quartz movement, luxury watch, casual watch, formal watch, durable watch, scratch-resistant watch, water-resistant watch"
+      }
+    }
+  ]
+}
